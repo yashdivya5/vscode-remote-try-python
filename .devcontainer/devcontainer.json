@@ -1,7 +1,7 @@
 {
   "name": "Python 3 with GitHub Copilot",
   "image": "mcr.microsoft.com/devcontainers/python:0-3.11",
-  "extensions": "GitHub.copilot",
+  "extensions": ["GitHub.copilot"],
   "customizations": {
     "vscode": {
       "settings": {},
